@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "revision":  1,
-    "issuedAt":  1792447704,
-    "expiresAt":  1793052504,
+    "revision":  2,
+    "issuedAt":  1792454700,
+    "expiresAt":  1795046700,
     "maintenance":  {
                         "enabled":  false,
                         "message":  "Client maintenance. Please try again later."
