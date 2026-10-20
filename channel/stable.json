@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "revision":  2,
-    "issuedAt":  1792454700,
-    "expiresAt":  1795046700,
+    "revision":  3,
+    "issuedAt":  1792455081,
+    "expiresAt":  1795047081,
     "maintenance":  {
                         "enabled":  false,
                         "message":  "Client maintenance. Please try again later."
@@ -14,7 +14,16 @@
                    "sha256":  ""
                },
     "client":  {
-                   "enabled":  false,
-                   "build":  "Nighlty 0.1.5"
+                   "enabled":  true,
+                   "delivery":  "fabric-jar-v1",
+                   "private":  true,
+                   "owner":  "stepanpeep",
+                   "repository":  "neverlose-builds",
+                   "tag":  "client-0.1.5",
+                   "asset":  "Neverlose-client.jar",
+                   "version":  "Nighlty 0.1.5",
+                   "revision":  1,
+                   "size":  152743170,
+                   "sha256":  "2579c9fc3a43d76179303748b2901af4e7366d3724ca3f48ce1f92e388b7ec63"
                }
 }
