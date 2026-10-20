@@ -20,10 +20,10 @@
                    "owner":  "stepanpeep",
                    "repository":  "neverlose-builds",
                    "tag":  "client-0.1.5",
-                   "asset":  "Neverlose-client.jar",
+                   "asset":  "Neverlose.client.jar",
                    "version":  "Nighlty 0.1.5",
                    "revision":  1,
-                   "size":  152743170,
-                   "sha256":  "2579c9fc3a43d76179303748b2901af4e7366d3724ca3f48ce1f92e388b7ec63"
+                   "size":  152748434,
+                   "sha256":  "4227ea672806ea8ca2d86f0cdefc4c3959426716139381b65e88231db0df8513"
                }
 }
