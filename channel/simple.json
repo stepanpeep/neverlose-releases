@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "mode": "github-release-v1",
+  "maintenance": {
+    "enabled": false,
+    "message": "Client maintenance. Please try again later."
+  },
+  "client": {
+    "enabled": true,
+    "private": true,
+    "owner": "stepanpeep",
+    "repository": "neverlose-builds",
+    "tag": "client-0.1.5",
+    "asset": "Neverlose-client.jar",
+    "version": "Nighlty 0.1.5"
+  }
+}
