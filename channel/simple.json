@@ -12,6 +12,12 @@
     "repository": "neverlose-builds",
     "tag": "client-0.1.5",
     "asset": "Neverlose-client.nlc",
-    "version": "Nighlty 0.1.5"
+    "version": "Nighlty 0.1.5",
+    "protection": {
+      "mode": "aes-256-gcm-v1",
+      "keyOwner": "stepanpeep",
+      "keyRepository": "neverlose-keys",
+      "keyTag": "keys"
+    }
   }
 }
