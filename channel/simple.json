@@ -11,7 +11,7 @@
     "owner": "stepanpeep",
     "repository": "neverlose-builds",
     "tag": "client-0.1.5",
-    "asset": "Neverlose-client.jar",
+    "asset": "Neverlose-client.nlc",
     "version": "Nighlty 0.1.5"
   }
 }
